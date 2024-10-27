@@ -1,5 +1,7 @@
 module github.com/taylormonacelli/cleverotter
 
+go 1.23.2
+
 require (
 	github.com/aws/aws-sdk-go-v2 v1.32.2
 	github.com/aws/aws-sdk-go-v2/config v1.28.0
